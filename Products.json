@@ -1,0 +1,27 @@
+[
+  {
+    "CodeProd": 12345,
+    "NameProd": "Чайник",
+    "PriceProd": 950.5
+  },
+  {
+    "CodeProd": 23415,
+    "NameProd": "Кофейник",
+    "PriceProd": 460
+  },
+  {
+    "CodeProd": 52341,
+    "NameProd": "Масленка",
+    "PriceProd": 120
+  },
+  {
+    "CodeProd": 33412,
+    "NameProd": "Сливочник",
+    "PriceProd": 206
+  },
+  {
+    "CodeProd": 54321,
+    "NameProd": "Чашка",
+    "PriceProd": 99.989999999999995
+  }
+]
